@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hemanth! <br/><a href="https://www.linkedin.com/in/hemanthmj/"> Aspiring Security Professional</a></h1>
+<h1>Hi, I'm Hemanth! <br/><a href="https://www.linkedin.com/in/hemanthmj/"> Security Analyst </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
