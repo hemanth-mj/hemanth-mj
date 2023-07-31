@@ -3,19 +3,17 @@ I'm an aspiring Security Analyst currently working in Marketing Industry<br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Incident Analysis using NIST CSF Frameworks</b></br>
-   [Link to the project](https://github.com/hemanth-mj/incident-analysis-project/)
+- <b>[Security Incident Analysis using NIST CSF Frameworks](https://github.com/hemanth-mj/incident-analysis-project/)</b></br>
   
-- <b>Using Linux commands to Manage File Permissions</b></br>
-   [Link to the Project](Repo link)
+- <b>[Using Linux commands to Manage File Permissions](https://github.com/hemanth-mj/File-Permissions-using-Linux)</b></br>
 
 
 <h2> Certifications </h2>
 
-- [Google Cybersecurity certification](https://grow.google/intl/ALL_ca/certificates/cybersecurity/)<br/>
-  [Course 1/8](https://coursera.org/share/f1c12785f4e8ebe9b792f7dcbec89ac5)<br/>
-  [Course 2/8](https://coursera.org/share/30f240a47bd337ef19288c327ba79e44)<br/>
-  [Course 3/8](https://coursera.org/share/8bf0c642ce9e31b7ae2e4cb3839d12cd)<br/>
+- <b>[Google Cybersecurity certification](https://grow.google/intl/ALL_ca/certificates/cybersecurity/)</b><br/>
+  [Course 1/8 completion certificate](https://coursera.org/share/f1c12785f4e8ebe9b792f7dcbec89ac5)<br/>
+  [Course 2/8 completion certificate](https://coursera.org/share/30f240a47bd337ef19288c327ba79e44)<br/>
+  [Course 3/8 completion certificate](https://coursera.org/share/8bf0c642ce9e31b7ae2e4cb3839d12cd)<br/>
 
 
 
