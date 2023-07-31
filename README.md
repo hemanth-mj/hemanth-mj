@@ -3,9 +3,12 @@ I'm an aspiring Security Analyst currently working in Marketing Industry<br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Incident Analysis using NIST CSF Frameworks</b>
-  - [Link](https://github.com/hemanth-mj/incident-analysis-project/)
-- 
+- <b>Security Incident Analysis using NIST CSF Frameworks</b></br>
+   [Link to the project](https://github.com/hemanth-mj/incident-analysis-project/)
+  
+- <b>Using Linux commands to Manage File Permissions</b></br>
+   [Link to the Project](Repo link)
+
 
 <h2> Certifications </h2>
 
