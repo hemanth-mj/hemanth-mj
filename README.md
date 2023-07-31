@@ -19,10 +19,8 @@ I'm an aspiring Security Analyst currently working in Marketing Industry<br/>
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Hemanth Jaganathan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hemanth Jaganathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hemanth Jaganathan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/imhemanth_26
 [instagram]: https://www.instagram.com/imhemanth_26
 [linkedin]: https://www.linkedin.com/in/hemanthmj/
