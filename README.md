@@ -1,9 +1,11 @@
-<h1>Hi, I'm Hemanth! <br/><a href="https://www.linkedin.com/in/hemanthmj/"> Security Analyst </a></h1>
+<h1>Hi, I'm Hemanth! </h1>
+I'm an aspiring Security Analyst currently working in Marketing Industry<br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Incident Analysis using NIST CSF Frameworks</b>
   - [Link](https://github.com/hemanth-mj/incident-analysis-project/)
+- 
 
 <h2> Certifications </h2>
 
