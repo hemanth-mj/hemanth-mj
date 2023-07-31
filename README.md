@@ -4,7 +4,6 @@ I'm an aspiring Security Analyst currently working in the Marketing Industry. I'
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Security Incident Analysis using NIST CSF Frameworks](https://github.com/hemanth-mj/incident-analysis-project/)</b></br>
-  
 - <b>[Using Linux commands to Manage File Permissions](https://github.com/hemanth-mj/File-Permissions-using-Linux)</b></br>
 
 
