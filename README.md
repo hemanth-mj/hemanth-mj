@@ -6,6 +6,8 @@ I'm an aspiring Security Analyst currently working in the Marketing Industry. I'
 - <b>[Security Incident Analysis using NIST CSF Frameworks](https://github.com/hemanth-mj/incident-analysis-project/)</b></br>
 - <b>[Using Linux commands to Manage File Permissions](https://github.com/hemanth-mj/File-Permissions-using-Linux)</b></br>
 - <b>[Apply Filters to SQL Queries](https://github.com/hemanth-mj/Filters-using-SQL/)</b></br>
+- <b>[Analyze a vulnerable system for a small business](https://github.com/hemanth-mj/Vulnerability-assessment-report)</b></br>
+
 
 
 
