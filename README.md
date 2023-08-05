@@ -13,10 +13,7 @@ I'm an aspiring Security Analyst currently working in the Marketing Industry. I'
 
 <h2>🎓 Certifications </h2>
 
-- <b>[Google Cybersecurity certification](https://grow.google/intl/ALL_ca/certificates/cybersecurity/)</b><br/>
-  [Course 1/8 completion certificate](https://coursera.org/share/f1c12785f4e8ebe9b792f7dcbec89ac5)<br/>
-  [Course 2/8 completion certificate](https://coursera.org/share/30f240a47bd337ef19288c327ba79e44)<br/>
-  [Course 3/8 completion certificate](https://coursera.org/share/8bf0c642ce9e31b7ae2e4cb3839d12cd)<br/>
+- <b>[Google Cybersecurity certification (4/8 courses completed!)](https://coursera.org/share/910a35a42aa27d936bca0e41f9d7bec9)</b><br/>
 
 
 <h2> 🤳 Connect with me:</h2>
